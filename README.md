@@ -4,3 +4,11 @@ In this repository we created a series of tutorials to facilitate learning of Ju
 In addition, we created a Script for Geophysics and a case of application to Data Science.
 
 We use Scripts and Jupyter Notebooks.
+
+Author: Oscar Hernández Terán
+
+Bachelor's Degree: Geophysical Engineer
+
+Telephone number: 55 61 40 54 65
+
+Email: oscarteran@comunidad.unam.mx
